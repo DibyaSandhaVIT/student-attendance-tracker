@@ -28,4 +28,4 @@ This project is a Python-based application designed to help students track their
 - Mobile version
 
 ## 👨‍💻 Author
-Your Name
+Dibya Pallak Sandha
