@@ -1,0 +1,40 @@
+Student Attendance Tracker - Project Report
+1. Introduction
+The Student Attendance Tracker is a Python-based application developed to help students
+efficiently manage and monitor their attendance across different subjects. Attendance plays a
+crucial role in academic performance, and maintaining a minimum percentage is often mandatory.
+2. Problem Statement
+Many students find it difficult to manually calculate attendance percentages and keep track of
+classes attended. This can lead to poor attendance management and falling below the required
+threshold.
+3. Objective
+The main objective of this project is to create a simple and user-friendly system that allows students
+to record attendance, calculate percentages automatically, and identify low attendance.
+4. Methodology
+The system is developed using Python. Data is stored in a JSON file, allowing persistence across
+sessions. The application uses a menu-driven interface where users can add subjects, mark
+attendance, and view statistics.
+5. Features
+- Add subjects
+- Mark attendance
+- Calculate percentage
+- Display warning for low attendance
+- Data persistence using JSON
+6. Tools and Technologies
+- Python programming language
+- JSON for data storage
+- Command Line Interface (CLI)
+7. Implementation
+The program uses functions for modularity. Attendance data is stored as key-value pairs, where
+each subject has 'present' and 'total' counts. Percentage is calculated dynamically.
+8. Results
+The system successfully tracks attendance and provides accurate percentages. It alerts users
+when attendance drops below 75%, helping them take corrective actions.
+9. Conclusion
+The project demonstrates how basic programming concepts can solve real-life problems effectively.
+It is simple, practical, and easy to use.
+10. Future Scope
+- Add graphical interface (GUI)
+- Add charts and analytics
+- Mobile or web-based version
+- Integration with college systems
